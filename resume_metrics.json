@@ -1,0 +1,7 @@
+{
+  "total_benchmark_queries": 35,
+  "accuracy_with_retries_pct": 100.0,
+  "accuracy_without_retries_pct": 94.28571428571428,
+  "accuracy_lift_pct": 5.714285714285722,
+  "average_latency_ms": 4.888857142857143
+}
